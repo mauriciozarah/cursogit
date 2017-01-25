@@ -7,3 +7,5 @@ Nova mudança
 este arquivo está no branch 2 (master2)
 
 aqui tem um git diff
+
+estudando as tag do git 
