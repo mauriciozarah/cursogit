@@ -7,12 +7,11 @@ Nova mudança
 este arquivo está no branch 2 (master2)
 
 aqui tem um git diff
-<<<<<<< HEAD
+
 
 aqui vai um lembrete do --amend que altera o último commit sem fazer um novo, ele na verdade altera o ultimo commit se gerar um novo.
 
 function one(){
 	echo "Esta é a primeira função";
 }
-=======
->>>>>>> master2
+
