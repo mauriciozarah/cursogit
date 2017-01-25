@@ -1,3 +1,5 @@
 Este é o arquivo de mudanças.
 As mudanças no nano não foram aplicadas.
 Preciso saber mexer no nano.
+
+Nova mudança
