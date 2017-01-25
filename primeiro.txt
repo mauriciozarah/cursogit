@@ -16,3 +16,6 @@ function one(){
 	echo "Esta é a primeira função";
 }
 
+function two(){
+	echo "Esta é a segunda função";
+}
